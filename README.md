@@ -1,0 +1,2 @@
+# Solara.Injector
+Free
